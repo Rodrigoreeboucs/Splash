@@ -11,3 +11,6 @@ O site busca um design morderno e clean com identidade visual espalhada por ele 
 -Styled-components<br>
 -react-icons<br>
 -react-router-dom<br>
+
+
+![Captura de Tela (94)](https://user-images.githubusercontent.com/83783563/152888857-c32504af-cdeb-40c0-a2f6-30c721c65933.png)
